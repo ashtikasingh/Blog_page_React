@@ -5,7 +5,7 @@ import '../LatestArticles/Lastestarticle.css'
 import Sidebar from '../SideBar/Sidebar'
 import Topost from '../TopPost/Topost'
 
-function Bollywood(props) {
+function Bollywood() {
   return (
     <>
       <div className='middle'>
