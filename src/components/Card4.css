@@ -1,0 +1,21 @@
+.c4-cont{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.c4-img img{
+    border-radius: 0.5rem;
+}
+.c4-p{
+    opacity: 0.5;
+    font-size: 0.8rem;
+}
+
+.c4 img{
+    width: 4rem;
+}
+.c4-txt{
+    position: relative;
+    top: -1.1rem;
+    width: 100%;
+}

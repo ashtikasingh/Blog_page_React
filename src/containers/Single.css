@@ -2,6 +2,8 @@
     width: 75%;  
     display: flex;
     justify-content: space-between;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
     
 }
 .tec-content{
@@ -71,6 +73,12 @@ button{
 .tec-foot{
     background-color: rgb(238, 238, 238);
     padding: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.foot-head{
+    font-size: 24px;
 }
 .foot-imgtxt{
     display: flex;

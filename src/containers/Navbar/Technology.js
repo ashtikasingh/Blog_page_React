@@ -1,11 +1,10 @@
 import React from 'react'
-// import Section from '../../components/Section'
 import '../Single.css'
 import I1 from "../../images/person1.png";
 import I2 from "../../images/logos3.jpg";
 import I3 from "../../images/react1.png";
 import I4 from "../../images/code1.png";  
-// import Card5 from "./HomeComp/Card5"; 
+import Card4 from '../../components/Card4';
 import I5 from "../../images/clap.png";
 import I6 from "../../images/share2.png";
 
@@ -66,11 +65,11 @@ components for creating animation in React.
         <div className="tec-foot">
             <p className="foot-head">More from Siren</p>   
             <hr/>
-            {/* <div className="foot-imgtxt">
-                <Card5/>
-                <Card5/>
-                <Card5/>
-            </div>  */}
+            <div className="foot-imgtxt">
+                <Card4/>
+                <Card4/>
+                <Card4/>
+            </div> 
         </div>
 
         </>
