@@ -8,7 +8,7 @@ function Posts(props) {
             <div className='p-img'></div>
             <div className='p-des'>Catch waves with <br/>adventure guide
             <br/>
-            <div className='smallU'>Travel</div>
+            <div className='smallU'>Travel/ November 10 2022</div>
             </div>
             <div className='num'>{props.num}</div>
             

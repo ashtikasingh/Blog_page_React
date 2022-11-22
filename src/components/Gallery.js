@@ -9,7 +9,7 @@ function Gallery() {
             <div className='text'>
               <div className='Title-text white'>Title of vertical gallery</div>
               <div className='small gray'>
-              Travel/ August 21 2017
+              Travel/ August 21 2022
             </div>
             </div>
           </div>
@@ -18,7 +18,7 @@ function Gallery() {
             <div className='side-text'>
               <div className='Normal-text white'>The Sound cloud <br/> You loved is doomed</div>
               <div className='gray'>
-              Travel/ August 21 2017
+              Travel/ August 21 2022
             </div>
             </div>
             </div>
@@ -26,7 +26,7 @@ function Gallery() {
             <div className='side-text'>
               <div className='Normal-text white'>The Sound cloud <br/> You loved is doomed</div>
               <div className='gray'>
-              Travel/ August 21 2017
+              Travel/ August 21 2022
             </div>
             </div>
             </div>
