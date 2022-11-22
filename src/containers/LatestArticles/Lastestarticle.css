@@ -1,0 +1,26 @@
+.lastestArticle{
+    flex: 7;
+}
+
+.line-75{
+    margin: 4% 0 4% 9% ;
+}
+
+.img-last{
+    background: url("https://www.doi.gov/sites/doi.gov/files/uploads/grand_canyon_np_mather_point_crowd_nps_photo_michael_quinn_small.jpg");
+    margin: 9% 0 0 9%;
+    background-size: cover;
+    width: 800px;
+    height: 400px;
+    border-radius: 3px;
+}
+
+.img-last .down{
+        /* margin-top: 35%; */
+        padding-top: 15%;
+        padding-left: 2%;
+        margin-left: 5%;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 500;
+}
+

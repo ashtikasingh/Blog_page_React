@@ -1,0 +1,45 @@
+ .card-1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 550;
+    width: 75%;
+    height: 400px;
+    margin-right: 2rem;
+ }
+
+.card1-img{
+    height: 250px;
+    width: 100%;
+    border-radius: 7px;
+}
+
+/*  */
+
+.long-box{
+    display: flex;
+    margin-left: 7%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 550;
+    height: 160px;
+}
+
+.article-img{
+    background-size: cover;
+    background-position: bottom;
+    height: 150px;
+    width: 200px;
+    flex: 3;
+    margin-right: 6%;
+    margin-left: 9%;
+    border-radius: 2px;
+}
+
+.article-desp{
+    flex: 6;
+    margin-left: 5%;
+    height: 200px;
+    width: 600px;
+}
+
+.card-des, .smallA{
+    font-size: 15px;
+}

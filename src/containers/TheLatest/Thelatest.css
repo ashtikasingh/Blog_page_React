@@ -1,0 +1,31 @@
+.Heading-L{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 550;
+    font-size: 40px;
+    margin: 5% 0 0 5%;
+}
+
+.Heading-LS{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 550;
+    font-size: 40px;
+    margin: 5% 0 0 9%;
+}
+
+.line-or{
+    margin-left: 5%;
+    width: 10%;
+    background-color: orangered;
+    height: 2px;
+    border: none;
+}
+
+.mar{
+   margin-left: 9%;
+}
+
+.wrapper{
+    display: flex;
+    margin: 5%;
+}
+

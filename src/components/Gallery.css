@@ -1,0 +1,69 @@
+.gal{
+    display: flex;
+    margin: 3rem 4rem 0 4rem;
+}
+
+.half-ri{
+    height: 430px;
+    width: 900px;
+    background: url('https://images.hdqwalls.com/wallpapers/forest-mountains-3v.jpg');
+    background-size: cover;
+    border-radius: 7px;
+}
+
+.text{
+    margin-top: 35%;
+    margin-left: 5%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.Title-text{
+    font-size: 40px;
+}
+
+.small{
+    font-size: 18px;
+}
+
+.white{
+    color: white;
+}
+
+.gray{
+    color: rgb(221, 213, 213);
+}
+
+.half-le{
+    padding: 0 2rem ;
+}
+
+.upper-le{
+    margin-bottom: 10%;
+    height: 200px;
+    width: 350px;
+    background: url('https://images.hdqwalls.com/wallpapers/forest-mountains-3v.jpg');
+    background-size: cover;
+    border-radius: 7px;
+}
+
+.lower-le{
+    height: 200px;
+    width: 350px;
+    background: url('https://images.hdqwalls.com/wallpapers/forest-mountains-3v.jpg');
+    background-size: cover;
+    border-radius: 7px;
+}
+
+.Normal-text{
+    font-size: 25px;
+}
+
+.side-text{
+    padding-top: 80px;
+    padding-left: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 550;
+}
+
+

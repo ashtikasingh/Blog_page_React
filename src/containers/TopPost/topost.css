@@ -1,0 +1,51 @@
+
+.Heading-LT{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 550;
+    font-size: 40px;
+    margin: 10% 0 0 20%;
+}
+
+.mar1{
+    /* margin-left: 5%; */
+    width: 15%;
+    background-color: orangered;
+    height: 2px;
+    border: none;
+    margin-left: 20%;
+}
+
+.post1{
+    margin: 2% 0 2% 20%;
+    flex: 9;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.post-img{
+    background: url("https://media.istockphoto.com/id/172369233/photo/aiguille-verte-and-the-mont-blanc-massif.jpg?b=1&s=170667a&w=0&k=20&c=t4oKy4d4p6lqsGFgt54jqEhAGcDe4mDyNHzD6138gDY=");
+    width: 350px;
+    height: 250px;
+    background-size: cover;
+    background-position: bottom;
+}
+
+.f{
+    display: flex;
+}
+
+.post-des{
+    flex: 9;
+    font-size: 20px; 
+}
+
+.num1{
+    flex: 3;
+    font-size: 30px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.post-line{
+    width: 65%;
+    margin-left: 20%;
+}
